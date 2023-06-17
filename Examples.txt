@@ -1,0 +1,2 @@
+Da mesma maneira que as funções lambda ou nossas próprias funções definidas, podemos usar as funções embutidas do Python com map(). Para aplicar uma função com múltiplos iteráveis, passamos outro nome iterável após o primeiro. Por exemplo, usando a função pow() que pega dois números para encontrar a potência do número base ao expoenteasasasasasa fornecidoasa
+
